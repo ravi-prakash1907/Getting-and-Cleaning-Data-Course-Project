@@ -25,7 +25,7 @@ The dataset, that is used for this analysis, is available at the following link:
 
 <br />
 
-(A compressed ``` .zip``` file is also included, holding data files)
+(A compressed ```.zip``` file is also included, holding data files)
 
 <br /><hr />
 
